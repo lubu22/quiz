@@ -1,0 +1,8 @@
+File from: [image-not-compressor/kwartira.jpg]
+
+File to: [image/kwartira.jpg]
+
+Compression algorithm: [mozjpeg]
+
+Description: Error: Command failed: D:\Работа\#code\Собственный квиз\node_modules\mozjpeg\vendor\cjpeg.exe -quality 60 -outfile image/kwartira.jpg image-not-compressor/kwartira.jpg
+Unrecognized input file format --- perhaps you need -targa

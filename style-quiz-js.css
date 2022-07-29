@@ -1,0 +1,20 @@
+.quiz-dispaly-none {
+    display: none;
+}
+
+.quiz__flex {
+    display: flex;
+}
+
+.qiuz__block {
+    display: block;
+}
+
+
+.quiz_visible_hidden {
+    visibility: hidden;
+}
+
+.quiz_visible_visible {
+    visibility: visible;
+}
